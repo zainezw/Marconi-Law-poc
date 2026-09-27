@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets — never commit
+*.env
+.env*
+*secret*
+*password*
+credentials*
+
+# Original course document contains lab credentials
+*Proof_of_Concept*.pdf
+*.docx
